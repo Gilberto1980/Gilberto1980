@@ -9,6 +9,8 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 <a href="https://www.facebook.com/">Clique Aqui no meu Facebook</a>
 <br>
 <a href="https://www.instagram.com/gilberto907/">Clique Aqui no meu Instagran</a>
+<br>
+<a href="https://www.linkedin.com/feed/">Clique Aqui no meu Linkdln</a>
 <img> 
 
 
