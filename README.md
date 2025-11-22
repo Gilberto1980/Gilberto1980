@@ -8,8 +8,8 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 ## Connect with link:
 <a href="https://www.facebook.com/">Clique Aqui no meu Facebook</a>
 <br>
-<a href="https://www.instagram.com/gilberto907/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30px" width="30px"/>
+<a href="https://www.instagram.com/gilberto907/" target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30px" width="30px"/>
+    
 </a>
 <br>
 <a href="https://www.linkedin.com/feed/">Clique Aqui no meu Linkdln</a>
