@@ -13,7 +13,7 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 <a href="https://www.instagram.com/gilberto907/" target="_blank">  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30px" width="30px"/>  Clique Aqui no meu Instagram</a>
 <br>
 <br>
-<a href="https://www.linkedin.com/feed/"> <img src="https://cdn.simpleicons.org/linkedln/E4405F" alt="Linkedln" height="30px" width="30px"/> Clique Aqui no meu Linkedln</a>
+<a href="https://www.linkedin.com/feed/"> <img src="div.tpic" alt="Linkedln" height="30px" width="30px"/> Clique Aqui no meu Linkedln</a>
 <img> 
 
 
