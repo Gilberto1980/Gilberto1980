@@ -6,7 +6,9 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 - <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
 ## Connect with link:
-<a href="https://www.facebook.com/">Clique Aqui no meu Facebook</a>
+<a href="https://www.facebook.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/E4405F" alt="Facebook" height="30" width="30"/>
+</a>
 <br>
 <br>
 <a href="https://www.instagram.com/gilberto907/" target="_blank">  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30px" width="30px"/>  Clique Aqui no meu Instagram</a>
