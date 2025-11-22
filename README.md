@@ -14,6 +14,8 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 <br>
 <br>
 <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="30px" width="30px"/> Clique Aqui no meu Linkedin</a>
+<br>
+[![Meu LinkedIn](https://cdn.simpleicons.org/linkedin/0077B5)](**LINK_DO_SEU_LINKEDIN**)
 
 
 [![GilbertoMartins](https://github-readme-stats.vercel.app/api?username=gilbertomartins)](https://github.com/anuraghazra/github-readme-stats)
