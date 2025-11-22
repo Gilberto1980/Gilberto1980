@@ -9,7 +9,7 @@ Eu sou o Gilberto, sou um Programador Front - End, atualmente estou aprendendo e
 <a href="https://www.facebook.com/">Clique Aqui no meu Facebook</a>
 <br>
 <a href="https://www.instagram.com/gilberto907/">Clique Aqui no meu Instagran</a>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=s56i6AGY&id=DA709A27F60535E74FE707E314B296DE921B3E00&thid=OIP.s56i6AGYEUHIXeCT46MaGAHaHa&mediaurl=https%3a%2f%2fpng.pngtree.com%2fpng-clipart%2f20200226%2foriginal%2fpngtree-instagram-icon-collection-png-image_5320951.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b39ea2e801981141c85de093e3a31a18%3frik%3dAD4bkt6WshTjBw%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=%c3%adcones+instagram+png&FORM=IRPRST&ck=D7D84CD9B1802BEF9A6626724806F474&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" alt=instagram-logo"/>
+- <img src = "https://www.bing.com/images/search?view=detailV2&ccid=GZBKBWO%2f&id=E33D022E7D9D22838C1710D61DC1884033C58C91&thid=OIP.GZBKBWO_sQMQs_lGzkmyYgHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fthumbnails%2f019%2f874%2f344%2fsmall_2x%2finstagram-apps-icon-free-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.19904a0563bfb10310b3f946ce49b262%3frik%3dkYzFM0CIwR3WEA%26pid%3dImgRaw%26r%3d0&exph=700&expw=700&q=%c3%adcone+Insta&FORM=IRPRST&ck=7C46B774C2D20B705E24644E07297B52&selectedIndex=7&itb=1" alt="instagram-logo" />
 <br>
 <a href="https://www.linkedin.com/feed/">Clique Aqui no meu Linkdln</a>
 <img> 
